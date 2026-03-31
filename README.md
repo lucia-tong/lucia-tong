@@ -16,18 +16,6 @@ I build pipelines, automate workflows, and turn messy datasets into decisions.
 
 ---
 
-### Selected Projects
-
-| Project | Stack | Core Analysis |
-| :--- | :--- | :--- |
-| **ASD Gender Diagnosis Gap** | Python, Scikit-learn | ML pipeline for diagnosis gap analysis across 70+ countries. |
-| **Retail Sales Analysis** | SQL, Pandas | EDA on 100k+ transactions to identify key revenue drivers. |
-| **SQL Property Recommender** | Python, SQLAlchemy | Development of a multi-criteria filtering system for real estate. |
-| **Market Analysis (Lift & Lead)** | Python, Seaborn | Competitive analysis and hypothesis validation (2019–2024). |
-| **Ad Campaign Tracker** | Python, Matplotlib | Automated KPI dashboard for digital marketing performance. |
-
----
-
 ### Certifications
 
 * **Google Analytics Certified** 
