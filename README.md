@@ -30,8 +30,8 @@ I build pipelines, automate workflows, and turn messy datasets into decisions.
 
 ### Certifications
 
-* **Google Analytics Certified** (2026)
-* **Power BI Specialisation** — Nuclio Digital School (2026)
+* **Google Analytics Certified** 
+* **Power BI Specialisation** — Nuclio Digital School 
 * **Google AI for Marketing**
 
 ---
