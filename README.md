@@ -38,8 +38,5 @@ I build pipelines, automate workflows, and turn messy datasets into decisions.
 
 ### Contact
 
-**LinkedIn:** (https://linkedin.com/in/lucia-tong)  
-**Email:** (mailto:kailitong@outlook.es)
-
 **LinkedIn:** [linkedin.com/in/lucia-tong](https://linkedin.com/in/lucia-tong)  
 **Email:** [kailitong@outlook.es](mailto:kailitong@outlook.es)
