@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=9B8FE8&width=550&lines=data+analyst+%C2%B7+Madrid%2C+Spain;python+%C2%B7+sql+%C2%B7+power+bi+%C2%B7+scikit-learn)](https://github.com/lucia-tong)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=9B8FE8&width=550&lines=Data+Analyst+%C2%B7+Madrid%2C+Spain;python+%C2%B7+sql+%C2%B7+power+bi+%C2%B7+scikit-learn)](https://github.com/lucia-tong)
 &nbsp;
 
 **BSc Computer Science · Dual MSc Data & AI @ Nuclio Digital School** *(in progress)*  
