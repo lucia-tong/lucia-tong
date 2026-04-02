@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=9B8FE8&width=550&lines=Data+Analyst+%C2%B7+Madrid%2C+Spain;python+%C2%B7+sql+%C2%B7+power+bi+%C2%B7+scikit-learn)](https://github.com/lucia-tong)
 &nbsp;
 
-**BSc Computer Science · Dual MSc Data & AI @ Nuclio Digital School** *(in progress)*  
-Background in mental health research, operational analytics and e-commerce.  
-I build pipelines, automate workflows, and turn messy datasets into decisions.
+**BSc Computer Science · Dual MSc Data & AI @ Nuclio Digital School** *(in progress)*
 
-&nbsp;
+🌐 Research · Operational Analytics · AI Pipelines.
+
+I’m passionate about building automated workflows that solve real-world problems. 
+My focus: creating scalable AI solutions that work for people.
+
+&nbsp;  
 
 ---
 
@@ -73,7 +76,7 @@ I build pipelines, automate workflows, and turn messy datasets into decisions.
 
 ---
 
-### Let's onnect! 
+### Let's Connect! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucia--tong-9B8FE8?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/lucia-tong)
 [![Email](https://img.shields.io/badge/Email-kailitong%40outlook.es-5DCAA5?style=flat-square&logo=microsoftoutlook&logoColor=fff)](mailto:kailitong@outlook.es)
