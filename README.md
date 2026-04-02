@@ -73,7 +73,7 @@ I build pipelines, automate workflows, and turn messy datasets into decisions.
 
 ---
 
-### connect
+### Let's onnect! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucia--tong-9B8FE8?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/lucia-tong)
 [![Email](https://img.shields.io/badge/Email-kailitong%40outlook.es-5DCAA5?style=flat-square&logo=microsoftoutlook&logoColor=fff)](mailto:kailitong@outlook.es)
