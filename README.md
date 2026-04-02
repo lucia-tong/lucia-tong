@@ -60,7 +60,7 @@ I’m passionate about building automated workflows that solve real-world proble
 ### Certifications
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics_Certified-9B8FE8?style=flat-square&logo=googleanalytics&logoColor=fff)
-![Power BI](https://img.shields.io/badge/Power_BI_Specialisation_%C2%B7_Nuclio-F2C811?style=flat-square&logo=powerbi&logoColor=7a6000)
+![Power BI](https://img.shields.io/badge/Power_BI_Specialization_%C2%B7_Nuclio-F2C811?style=flat-square&logo=powerbi&logoColor=7a6000)
 ![Google AI](https://img.shields.io/badge/Google_AI_for_Marketing-5DCAA5?style=flat-square&logo=google&logoColor=fff)
 ![Sports Digital Transformation](https://img.shields.io/badge/Digital_Transformation_Sports_%C2%B7_UAX-F0997B?style=flat-square&logo=hugo&logoColor=fff)
 ![Soft Skills](https://img.shields.io/badge/Soft_Skills_Program_%C2%B7_Nuclio-ED93B1?style=flat-square&logo=smashingmagazine&logoColor=fff)
