@@ -48,6 +48,7 @@ I’m passionate about building automated workflows that solve real-world proble
 
 | project | stack | description |
 |---|---|---|
+| [**global-health-analytics**](https://github.com/lucia-tong/global-health-analytics) | Python · Scikit-Learn · K-Means | **Master's Thesis (TFM)**: ML pipeline for longevity drivers across 84 countries. |
 | [**autism-gender-gap**](https://github.com/lucia-tong/autism-gender-gap) | Python · XGBoost · SHAP · Power BI | ML pipeline across 70+ countries · regression · clustering · TFM |
 | [**airbnb-market-analysis-madrid**](https://github.com/lucia-tong/airbnb-market-analysis-madrid) | Python · Pandas · Seaborn | Price drivers in Madrid listings · EDA on 20k+ properties |
 | [**ad-campaign-tracker**](https://github.com/lucia-tong/ad-campaign-tracker) | Python · Pandas · Matplotlib | Automated KPI dashboard · CTR · CPL · CR by channel |
@@ -59,12 +60,13 @@ I’m passionate about building automated workflows that solve real-world proble
 
 ### Certifications
 
-![Google Analytics](https://img.shields.io/badge/Google_Analytics_Certified-9B8FE8?style=flat-square&logo=googleanalytics&logoColor=fff)
-![Power BI](https://img.shields.io/badge/Power_BI_Specialization_%C2%B7_Nuclio-F2C811?style=flat-square&logo=powerbi&logoColor=7a6000)
-![Google AI](https://img.shields.io/badge/Google_AI_for_Marketing-5DCAA5?style=flat-square&logo=google&logoColor=fff)
-![Sports Digital Transformation](https://img.shields.io/badge/Digital_Transformation_Sports_%C2%B7_UAX-F0997B?style=flat-square&logo=hugo&logoColor=fff)
-![Soft Skills](https://img.shields.io/badge/Soft_Skills_Program_%C2%B7_Nuclio-ED93B1?style=flat-square&logo=smashingmagazine&logoColor=fff)
-
+![English C2](https://img.shields.io/badge/English_C2_Proficient-EF_SET-41B883?style=flat-square&logo=googletranslate&logoColor=fff)
+![Generative AI](https://img.shields.io/badge/Generative_AI_Fundamentals-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=fff)
+![Power BI](https://img.shields.io/badge/Power_BI_Specialization-Nuclio_School-F2C811?style=flat-square&logo=powerbi&logoColor=333)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-00BCEB?style=flat-square&logo=cisco&logoColor=fff)
+![GA4](https://img.shields.io/badge/Google_Analytics_4_Certified-4285F4?style=flat-square&logo=googleanalytics&logoColor=fff)
+![Conversion Optimization](https://img.shields.io/badge/Conversion_Optimization-Google-FBBC05?style=flat-square&logo=google&logoColor=333)
+![Digital Transformation](https://img.shields.io/badge/Digital_Transformation_Sports-UAX_Rafa_Nadal-E63946?style=flat-square&logo=hugo&logoColor=fff)
 ---
 
 ### Languages
